@@ -1,51 +1,51 @@
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-Black.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Light.ttf);
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-BlackItalic.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-LightItalic.ttf);
   font-style: italic;
   font-weight: 300;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-Regular.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Regular.ttf);
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-Italic.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Italic.ttf);
   font-style: italic;
   font-weight: 400;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-Medium.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Medium.ttf);
   font-style: normal;
   font-weight: 500;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-MediumItalic.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-MediumItalic.ttf);
   font-style: italic;
   font-weight: 500;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-Bold.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Bold.ttf);
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
-  font-family: "RobotoMono";
-  src: url(../font/RobotoMono-BoldItalic.ttf);
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-BoldItalic.ttf);
   font-style: italic;
   font-weight: 700;
 }
 body {
-  font-family: "RobotoMono", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Ubuntu", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
